@@ -167,4 +167,13 @@
     border: solid white;
 }
 
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 1em;
+    color: #E5E7EB;
+}
+
 
