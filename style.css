@@ -78,6 +78,7 @@
     justify-content: center;
     align-items: center;
     height: fit-content;
+    margin-bottom: 7em;
 }
 
 .section2-content1{
@@ -116,6 +117,23 @@
 
 .card-text{
     width:70%;
+}
+
+.section3{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding:7em;
+}
+
+.section3-content{
+    width: 60%;
+    font-size: 36px;
+    font-style: italic
+}
+
+.section3-author{
+    text-align: end;
 }
 
 
