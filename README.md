@@ -1,2 +1,2 @@
 # Landing-Page-Odin
-Landing page project for theodinproject.com
+Landing page project for theodinproject.com using HTML and CSS
